@@ -1,4 +1,5 @@
-image: darron/spanner-emulator-multiarch:1.5.1
+image: darron/spanner-emulator-multiarch:latest
+tags: ["1.5.1"]
 manifests:
   -
     image: darron/spanner-emulator-amd64:1.5.1-amd64
